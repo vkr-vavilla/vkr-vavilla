@@ -100,6 +100,3 @@ I'm a Computer Engineering undergrad at the University of Texas at Arlington wit
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/vkr-vavilla/contribution-snake/blob/output/github-contribution-grid-snake.svg)
