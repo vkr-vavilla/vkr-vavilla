@@ -7,8 +7,7 @@ Honors Bachelors in Computer Engineering
 [![](https://img.shields.io/badge/Computer%20Engineering-UTA-blue)](https://www.uta.edu/)  
 [![](https://img.shields.io/badge/Minors-Cybersecurity%20%7C%20Mathematics%20%7C%20Physics-purple)]()  
 [![](https://img.shields.io/badge/Actively%20Seeking-Internships%20%26%20Research-orange)]()  
-[![](https://img.shields.io/badge/LinkedIn-VamshiVavilla-blue?logo=linkedin)](https://linkedin.com/in/vamshivavilla)  
-[![](https://komarev.com/ghpvc/?username=vamshivavilla&style=flat-square&color=brightgreen)](https://github.com/vamshivavilla)
+[![](https://img.shields.io/badge/LinkedIn-VamshiVavilla-blue?logo=linkedin)](https://linkedin.com/in/vamshivavilla)
 
 
 I’m a multidisciplinary problem-solver passionate about building secure systems, exploring subatomic physics, and working with low-level hardware. I've contributed to research from positron energy spectrometry to high-voltage particle detection systems. I love working at the intersection of embedded engineering, cybersecurity, and quantum systems.
