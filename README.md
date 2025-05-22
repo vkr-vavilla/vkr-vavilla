@@ -100,7 +100,6 @@ I'm a Computer Engineering undergrad at the University of Texas at Arlington wit
 
 ---
 
-### 🐍 GitHub Activity Snake (Dynamic Fun)
-![Snake animation](https://github.com/vkr-vavilla/vkr-vavilla/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Contribution Snake
 
-> Make sure you have GitHub Actions set up for this to work: https://github.com/Platane/snk
+![Snake animation](https://github.com/vkr-vavilla/contribution-snake/blob/output/github-contribution-grid-snake.svg)
