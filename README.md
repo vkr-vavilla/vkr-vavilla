@@ -4,6 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Honors Bachelors in Computer Engineering
 ----------------------------------------
 
+[![](https://img.shields.io/badge/Computer%20Engineering-UTA-blue)](https://www.uta.edu/)  
+[![](https://img.shields.io/badge/Minors-Cybersecurity%20%7C%20Mathematics%20%7C%20Physics-purple)]()  
+[![](https://img.shields.io/badge/Actively%20Seeking-Internships%20%26%20Research-orange)]()  
+[![](https://img.shields.io/badge/LinkedIn-VamshiVavilla-blue?logo=linkedin)](https://linkedin.com/in/vamshivavilla)  
+[![](https://komarev.com/ghpvc/?username=vamshivavilla&style=flat-square&color=brightgreen)](https://github.com/vamshivavilla)
+
+
 I'm a Computer Engineering undergrad at the University of Texas at Arlington with a minor in Cybersecurity, Mathematics, and Physics. I’m passionate about solving real-world problems at the intersection of \*\*Cybersecurity\*\*, \*\*Quantum Computing\*\*, and \*\*Embedded Systems\*\*.
 
 *   🌍  I'm based in Arlington, Texas
