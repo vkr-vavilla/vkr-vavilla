@@ -13,10 +13,10 @@ Honors Bachelors in Computer Engineering
 
 I’m a multidisciplinary problem-solver passionate about building secure systems, exploring subatomic physics, and working with low-level hardware. I've contributed to research from positron energy spectrometry to high-voltage particle detection systems. I love working at the intersection of embedded engineering, cybersecurity, and quantum systems.
 
----
-
 *   🌍  I'm based in Arlington, Texas
 *   ✉️  You can contact me at [vkr.vavilla@gmail.com](mailto:vkr.vavilla@gmail.com)### Skills
+
+---
 
 ## 🔬 Research Experience
 
@@ -28,8 +28,9 @@ I’m a multidisciplinary problem-solver passionate about building secure system
 - Worked on MCP-PMT detectors and analog signal timing systems for long-baseline neutrino experiments.
 - Assisted in high-voltage testing, calibration, and timing analysis.
 
-### 🛠️ High-Voltage System Prototyping | UTA Research Institute (UTARI)
-- Assisted in hardware prototyping and reliability analysis for embedded and sensor-based systems.
+### 🔹 UTA Research Institute (UTARI)
+- Contributed to prototyping and stress-testing advanced sensor modules and high-voltage diagnostic systems.
+- Participated in engineering simulations and lab analysis for mission-critical electronics.
 
 ---
 
@@ -48,9 +49,11 @@ Git & GitHub, Wireshark, Docker, STM32CubeMX, CCS, Keil uVision, VS Code, SSH, G
 MySQL, Firebase, basic MongoDB
 
 ### 🏅 Certifications
-- IBM Cybersecurity Analyst
-- AWS Cloud Quest
-- Google Cybersecurity Certificate (in progress)
+- Deloitte Australia Internship Certificate
+- Mastercard Forage Ceritficate
+- Splunk Bootcamp Certificate
+- SOC Analyst Certificate
+- Google Cybersecurity Certificate
 
 ---
 
