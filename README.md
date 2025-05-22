@@ -11,37 +11,58 @@ Honors Bachelors in Computer Engineering
 [![](https://komarev.com/ghpvc/?username=vamshivavilla&style=flat-square&color=brightgreen)](https://github.com/vamshivavilla)
 
 
-I'm a Computer Engineering undergrad at the University of Texas at Arlington with a minor in Cybersecurity, Mathematics, and Physics. I’m passionate about solving real-world problems at the intersection of \*\*Cybersecurity\*\*, \*\*Quantum Computing\*\*, and \*\*Embedded Systems\*\*.
+I’m a multidisciplinary problem-solver passionate about building secure systems, exploring subatomic physics, and working with low-level hardware. I've contributed to research from positron energy spectrometry to high-voltage particle detection systems. I love working at the intersection of embedded engineering, cybersecurity, and quantum systems.
+
+---
 
 *   🌍  I'm based in Arlington, Texas
 *   ✉️  You can contact me at [vkr.vavilla@gmail.com](mailto:vkr.vavilla@gmail.com)### Skills
 
-🔍 **Currently exploring:**
-- System security & defense (SIEM tools, KQL, vulnerability analysis)
-- Quantum research applications for secure computation and AI
-- Embedded C and microcontroller design (UART, GPIO, SysTick, PWM)
-- Operating system fundamentals (xv6 kernel work, MLFQ schedulers, memory management)
+## 🔬 Research Experience
+
+### 🧲 Magnetic Bottle Spectrometer Simulation | UTA Physics
+- Designed and simulated a **time-of-flight spectrometer** with an **ExB system** to analyze positron-induced electrons.
+- Used field solvers and modeling techniques (FEM, FDTD) to map trajectories and kinetic energies.
+
+### 🧪 DUNE Neutrino Detector Systems | Fermilab
+- Worked on MCP-PMT detectors and analog signal timing systems for long-baseline neutrino experiments.
+- Assisted in high-voltage testing, calibration, and timing analysis.
+
+### 🛠️ High-Voltage System Prototyping | UTA Research Institute (UTARI)
+- Assisted in hardware prototyping and reliability analysis for embedded and sensor-based systems.
 
 ---
 
-🔬 **Research Experience:**
-- 🧪 Research Assistant @ UTA Physics Dept.  
-  Working on **ATLAS Forward Proton** project (CERN) and **DUNE** (Fermilab) involving high-voltage systems, MCP-PMT detectors, and Cherenkov radiation analysis.
+## 💻 Technical Skills
+
+### 👨‍💻 Languages
+C, C++, Python, Java, Verilog, Bash, ARM Assembly, JavaScript, HTML/CSS
+
+### 📦 Frameworks & Libraries
+OpenCV, ROS, STM32 HAL, NumPy, Pandas, Matplotlib, Keras, TensorFlow, Scikit-learn
+
+### 🧰 Tools & Platforms
+Git & GitHub, Wireshark, Docker, STM32CubeMX, CCS, Keil uVision, VS Code, SSH, GDB, LaTeX, Microsoft Sentinel, FileZilla
+
+### 🗄️ Databases
+MySQL, Firebase, basic MongoDB
+
+### 🏅 Certifications
+- IBM Cybersecurity Analyst
+- AWS Cloud Quest
+- Google Cybersecurity Certificate (in progress)
 
 ---
 
-🛠️ **Skills & Tools:**
-- **Languages:** C, Python, Java, Verilog, Bash
-- **Frameworks/Libs:** ROS, OpenCV, STM32 HAL
-- **Tools:** Git, Wireshark, Keil uVision, CCS, FileZilla, VS Code
-- **Certifications:** IBM Cybersecurity Analyst, AWS Cloud Quest
+## 🌱 Currently Exploring
+
+- 🔐 **SIEM tools** & **threat detection** with Microsoft Sentinel  
+- ⚛️ **Quantum-safe cryptography** and secure AI simulations  
+- 🖥️ **xv6 OS kernel programming**, MLFQ, and virtual memory  
+- 📟 **Embedded systems** (Cortex-M, signal interfacing, timing circuits)
 
 ---
 
-🌱 Always curious, always learning. Currently looking for internships and research opportunities in:
-- Cybersecurity (Threat Detection, Risk Analysis)
-- Quantum Computing & Cryptography
-- Embedded Systems & Signal Processing
 
 📫 Feel free to reach out — let’s build something impactful together!
 
