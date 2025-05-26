@@ -17,7 +17,7 @@ I’m a multidisciplinary problem-solver passionate about building secure system
 
 ---
 
-### Skills
+# Skills
 
 
 ## 🔬 Research Experience
