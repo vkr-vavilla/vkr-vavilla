@@ -101,7 +101,7 @@ I’m a multidisciplinary problem-solver passionate about building secure system
 
 ---
 
-### 🌐 Socials
+## 🌐 Socials
 <p align="left">
   <a href="https://www.github.com/vkr-vavilla" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vamshi-vavilla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
