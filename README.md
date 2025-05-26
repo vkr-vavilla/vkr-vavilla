@@ -68,6 +68,9 @@ MySQL, Firebase, basic MongoDB
 
 📫 Feel free to reach out — let’s build something impactful together!
 
+---
+
+
 ### 💻 Skills & Technologies
 
 #### 🛡️ Cybersecurity & Risk
