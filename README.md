@@ -17,61 +17,6 @@ I’m a multidisciplinary problem-solver passionate about building secure system
 
 ---
 
-# Skills
-
-
-## 🔬 Research Experience
-
-### 🧲 Magnetic Bottle Spectrometer Simulation | UTA Physics
-- Designed and simulated a **time-of-flight spectrometer** with an **ExB system** to analyze positron-induced electrons.
-- Used field solvers and modeling techniques (FEM, FDTD) to map trajectories and kinetic energies.
-
-### 🧪 DUNE Neutrino Detector Systems | Fermilab
-- Worked on MCP-PMT detectors and analog signal timing systems for long-baseline neutrino experiments.
-- Assisted in high-voltage testing, calibration, and timing analysis.
-
-### 🔹 UTA Research Institute (UTARI)
-- Contributed to prototyping and stress-testing advanced sensor modules and high-voltage diagnostic systems.
-- Participated in engineering simulations and lab analysis for mission-critical electronics.
-
----
-
-## 💻 Technical Skills
-
-### 👨‍💻 Languages
-C, C++, Python, Java, Verilog, Bash, ARM Assembly, JavaScript, HTML/CSS
-
-### 📦 Frameworks & Libraries
-OpenCV, ROS, STM32 HAL, NumPy, Pandas, Matplotlib, Keras, TensorFlow, Scikit-learn
-
-### 🧰 Tools & Platforms
-Git & GitHub, Wireshark, Docker, STM32CubeMX, CCS, Keil uVision, VS Code, SSH, GDB, LaTeX, Microsoft Sentinel, FileZilla
-
-### 🗄️ Databases
-MySQL, Firebase, basic MongoDB
-
-### 🏅 Certifications
-- Deloitte Australia Internship Certificate
-- Mastercard Forage Ceritficate
-- Splunk Bootcamp Certificate
-- SOC Analyst Certificate
-- Google Cybersecurity Certificate
-
----
-
-## 🌱 Currently Exploring
-
-- 🔐 **SIEM tools** & **threat detection** with Microsoft Sentinel  
-- ⚛️ **Quantum-safe cryptography** and secure AI simulations  
-- 🖥️ **xv6 OS kernel programming**, MLFQ, and virtual memory  
-- 📟 **Embedded systems** (Cortex-M, signal interfacing, timing circuits)
-
-
-📫 Feel free to reach out — let’s build something impactful together!
-
----
-
-
 ### 💻 Skills & Technologies
 
 #### 🛡️ Cybersecurity & Risk
@@ -155,3 +100,57 @@ MySQL, Firebase, basic MongoDB
   <a href="https://www.x.com/vavillavamshi1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discord.com/users/vamshivavilla" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
+
+---
+
+# Skills
+
+
+## 🔬 Research Experience
+
+### 🧲 Magnetic Bottle Spectrometer Simulation | UTA Physics
+- Designed and simulated a **time-of-flight spectrometer** with an **ExB system** to analyze positron-induced electrons.
+- Used field solvers and modeling techniques (FEM, FDTD) to map trajectories and kinetic energies.
+
+### 🧪 DUNE Neutrino Detector Systems | Fermilab
+- Worked on MCP-PMT detectors and analog signal timing systems for long-baseline neutrino experiments.
+- Assisted in high-voltage testing, calibration, and timing analysis.
+
+### 🔹 UTA Research Institute (UTARI)
+- Contributed to prototyping and stress-testing advanced sensor modules and high-voltage diagnostic systems.
+- Participated in engineering simulations and lab analysis for mission-critical electronics.
+
+---
+
+## 💻 Technical Skills
+
+### 👨‍💻 Languages
+C, C++, Python, Java, Verilog, Bash, ARM Assembly, JavaScript, HTML/CSS
+
+### 📦 Frameworks & Libraries
+OpenCV, ROS, STM32 HAL, NumPy, Pandas, Matplotlib, Keras, TensorFlow, Scikit-learn
+
+### 🧰 Tools & Platforms
+Git & GitHub, Wireshark, Docker, STM32CubeMX, CCS, Keil uVision, VS Code, SSH, GDB, LaTeX, Microsoft Sentinel, FileZilla
+
+### 🗄️ Databases
+MySQL, Firebase, basic MongoDB
+
+### 🏅 Certifications
+- Deloitte Australia Internship Certificate
+- Mastercard Forage Ceritficate
+- Splunk Bootcamp Certificate
+- SOC Analyst Certificate
+- Google Cybersecurity Certificate
+
+---
+
+## 🌱 Currently Exploring
+
+- 🔐 **SIEM tools** & **threat detection** with Microsoft Sentinel  
+- ⚛️ **Quantum-safe cryptography** and secure AI simulations  
+- 🖥️ **xv6 OS kernel programming**, MLFQ, and virtual memory  
+- 📟 **Embedded systems** (Cortex-M, signal interfacing, timing circuits)
+
+
+📫 Feel free to reach out — let’s build something impactful together!
