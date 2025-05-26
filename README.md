@@ -13,9 +13,12 @@ Honors Bachelors in Computer Engineering
 I’m a multidisciplinary problem-solver passionate about building secure systems, exploring subatomic physics, and working with low-level hardware. I've contributed to research from positron energy spectrometry to high-voltage particle detection systems. I love working at the intersection of embedded engineering, cybersecurity, and quantum systems.
 
 *   🌍  I'm based in Arlington, Texas
-*   ✉️  You can contact me at [vkr.vavilla@gmail.com](mailto:vkr.vavilla@gmail.com)### Skills
+*   ✉️  You can contact me at [vkr.vavilla@gmail.com](mailto:vkr.vavilla@gmail.com)
 
 ---
+
+### Skills
+
 
 ## 🔬 Research Experience
 
@@ -62,8 +65,6 @@ MySQL, Firebase, basic MongoDB
 - ⚛️ **Quantum-safe cryptography** and secure AI simulations  
 - 🖥️ **xv6 OS kernel programming**, MLFQ, and virtual memory  
 - 📟 **Embedded systems** (Cortex-M, signal interfacing, timing circuits)
-
----
 
 
 📫 Feel free to reach out — let’s build something impactful together!
