@@ -17,7 +17,7 @@ I’m a multidisciplinary problem-solver passionate about building secure system
 
 ---
 
-### 💻 Skills & Technologies
+## 💻 Skills & Technologies
 
 #### 🛡️ Cybersecurity & Risk
 <p align="left">
@@ -90,6 +90,15 @@ I’m a multidisciplinary problem-solver passionate about building secure system
   <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
+### 🏅 Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/Deloitte_Internship-000000?style=for-the-badge&logo=deloitte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mastercard_Forage-E80000?style=for-the-badge&logo=mastercard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk_Bootcamp-000000?style=for-the-badge&logo=thinkific&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOC_Analyst_Cert-2E86C1?style=for-the-badge&logo=thinkific&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
 ---
 
 ### 🌐 Socials
@@ -102,9 +111,6 @@ I’m a multidisciplinary problem-solver passionate about building secure system
 </p>
 
 ---
-
-# Skills
-
 
 ## 🔬 Research Experience
 
@@ -119,29 +125,6 @@ I’m a multidisciplinary problem-solver passionate about building secure system
 ### 🔹 UTA Research Institute (UTARI)
 - Contributed to prototyping and stress-testing advanced sensor modules and high-voltage diagnostic systems.
 - Participated in engineering simulations and lab analysis for mission-critical electronics.
-
----
-
-## 💻 Technical Skills
-
-### 👨‍💻 Languages
-C, C++, Python, Java, Verilog, Bash, ARM Assembly, JavaScript, HTML/CSS
-
-### 📦 Frameworks & Libraries
-OpenCV, ROS, STM32 HAL, NumPy, Pandas, Matplotlib, Keras, TensorFlow, Scikit-learn
-
-### 🧰 Tools & Platforms
-Git & GitHub, Wireshark, Docker, STM32CubeMX, CCS, Keil uVision, VS Code, SSH, GDB, LaTeX, Microsoft Sentinel, FileZilla
-
-### 🗄️ Databases
-MySQL, Firebase, basic MongoDB
-
-### 🏅 Certifications
-- Deloitte Australia Internship Certificate
-- Mastercard Forage Ceritficate
-- Splunk Bootcamp Certificate
-- SOC Analyst Certificate
-- Google Cybersecurity Certificate
 
 ---
 
