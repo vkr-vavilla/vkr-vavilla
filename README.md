@@ -90,7 +90,7 @@ I’m a multidisciplinary problem-solver passionate about building secure system
   <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-### 🏅 Certifications
+#### 🏅 Certifications
 <p align="left">
   <img src="https://img.shields.io/badge/Deloitte_Internship-000000?style=for-the-badge&logo=deloitte&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mastercard_Forage-E80000?style=for-the-badge&logo=mastercard&logoColor=white"/>
