@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Honors Bachelors in Computer Engineering
 ----------------------------------------
 
-[![](https://img.shields.io/badge/Computer%20Engineering-UTA-blue)](https://www.uta.edu/)  
-[![](https://img.shields.io/badge/Minors-Cybersecurity%20%7C%20Mathematics%20%7C%20Physics-purple)]()  
-[![](https://img.shields.io/badge/Actively%20Seeking-Internships%20%26%20Research-orange)]()  
-[![](https://img.shields.io/badge/LinkedIn-VamshiVavilla-blue?logo=linkedin)](https://linkedin.com/in/vamshivavilla)
+[![](https://img.shields.io/badge/🎓_UTA-Computer_Engineering-blue?style=for-the-badge)](https://www.uta.edu/)  
+[![](https://img.shields.io/badge/📚_Minors-Cybersecurity,_Math,_Physics-purple?style=for-the-badge)]()  
+[![](https://img.shields.io/badge/🚀_Seeking-Internships_&_Research-orange?style=for-the-badge)]()  
+[![](https://img.shields.io/badge/🔗_LinkedIn-Vamshi_Vavilla-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vamshivavilla)
 
 
 I’m a multidisciplinary problem-solver passionate about building secure systems, exploring subatomic physics, and working with low-level hardware. I've contributed to research from positron energy spectrometry to high-voltage particle detection systems. I love working at the intersection of embedded engineering, cybersecurity, and quantum systems.
