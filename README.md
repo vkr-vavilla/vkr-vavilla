@@ -110,9 +110,6 @@ I’m a multidisciplinary problem-solver passionate about building secure system
   <a href="https://discord.com/users/vamshivavilla" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" />
-</p>
 
 ---
 
