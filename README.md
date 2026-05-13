@@ -7,7 +7,9 @@ Honors Bachelors in Computer Engineering
 [![](https://img.shields.io/badge/🎓_UTA-Computer_Engineering-blue?style=for-the-badge)](https://www.uta.edu/)  
 [![](https://img.shields.io/badge/📚_Minors-Cybersecurity,_Math,_Physics-purple?style=for-the-badge)]()  
 [![](https://img.shields.io/badge/🚀_Seeking-Internships_&_Research-orange?style=for-the-badge)]()  
-[![](https://img.shields.io/badge/🔗_LinkedIn-Vamshi_Vavilla-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamshi-vavilla/)
+[![🔗_LinkedIn-Vamshi_Vavilla](https://img.shields.io/badge/🔗_LinkedIn-Vamshi_Vavilla-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamshi-vavilla/)
+<br>
+[![📄_Resume-View_Resume](https://img.shields.io/badge/📄_Resume-View_Resume-green?style=for-the-badge)](https://drive.google.com/file/d/1aWJ233qm0EybzpDFGOwiHN1Nrx-nKzxI/view?usp=sharing)
 
 
 I’m a multidisciplinary problem-solver passionate about building secure systems, exploring subatomic physics, and working with low-level hardware. I've contributed to research from positron energy spectrometry to high-voltage particle detection systems. I love working at the intersection of embedded engineering, cybersecurity, and quantum systems.
