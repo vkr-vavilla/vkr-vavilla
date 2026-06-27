@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Vamshi+Vavilla+%F0%9F%91%8B;Cloud+%26+Embedded+Security+Engineer;Research+%40+CERN+%7C+UTARI+%7C+CyberGuard;Building+at+the+intersection+of+HW+%26+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Vamshi+Vavilla+%F0%9F%91%8B;Cloud%2C+ML+%26+Security+Engineer;Research+%40+CERN+%7C+UTARI+%7C+CyberGuard" alt="Typing SVG" />
 
 <br/>
 
@@ -17,12 +17,12 @@
 
 ```python
 vamshi = {
-    "degree":    "Honors BS Computer Engineering @ UT Arlington (GPA: 3.8)",
+    "degree":    "Honors BS Computer Engineering @ UT Arlington",
     "minors":    ["Cybersecurity", "Mathematics", "Physics"],
     "research":  ["CERN/Fermilab", "UTARI", "CyberGuard UTA", "Positron Lab"],
     "focus":     ["Cloud Security", "Embedded Systems", "ML Security Research"],
     "currently": "Research Engineer @ UTARI + Security RA @ CyberGuard",
-    "seeking":   "New Grad / Internship roles in Security Engineering or Embedded",
+    "seeking":   "New Grad roles in Cloud, ML, and Security Engineering",
 }
 ```
 
