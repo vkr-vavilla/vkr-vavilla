@@ -112,7 +112,7 @@ vamshi = {
 <td width="50%" valign="top">
 
 ### 🔐 [Cloud Threat Pipeline](https://github.com/vkr-vavilla/cloud-threat-pipeline)
-AWS Lambda + Terraform pipeline on LocalStack that parses CloudTrail events and flags 5 critical attack scenarios — root access, IAM escalation, public S3, open SGs, log tampering. Dual-channel SNS + Slack alerting with full pytest CI suite.
+Terraform-provisioned Lambda pipeline that parses CloudTrail events and detects 5 attack scenarios. SNS + Slack alerting with a full pytest suite requiring zero live AWS dependencies.
 
 `AWS` `Terraform` `Lambda` `Python` `Docker` `LocalStack`
 
@@ -120,7 +120,7 @@ AWS Lambda + Terraform pipeline on LocalStack that parses CloudTrail events and 
 <td width="50%" valign="top">
 
 ### 🛡️ [GCP Security Posture Automation](https://github.com/vkr-vavilla/gcp-security-posture-automation)
-Python auditing tool that evaluates GCP projects against 9 CIS Benchmark controls (IAM, Cloud Storage, SAs). Generates NIST SP 800-53 mapped remediation reports with severity filtering and credential-free CI testing.
+Audits GCP projects against 9 CIS Benchmark controls across IAM, Cloud Storage, and Service Accounts. Outputs NIST SP 800-53 mapped remediation reports with credential-free CI testing.
 
 `Python` `GCP` `Security Command Center` `CIS Benchmarks` `pytest`
 
@@ -130,7 +130,7 @@ Python auditing tool that evaluates GCP projects against 9 CIS Benchmark control
 <td width="50%" valign="top">
 
 ### 🤖 [LLM Evaluation Framework](https://github.com/vkr-vavilla/LLM_Evaluation)
-Automated framework in Python + Go to benchmark RAG-generated hex-encoded WAV exploit payloads against 11+ real-world CVEs in libsndfile. 0.85+ similarity threshold across 35 ground-truth cases; P50/P95/P99 profiling in GitHub Actions CI.
+Benchmarks RAG-generated WAV exploit payloads against 11+ CVEs in libsndfile. Integrates Levenshtein similarity scoring and P50/P95/P99 latency profiling into a GitHub Actions CI pipeline.
 
 `Python` `Go` `FastAPI` `RAG` `CI/CD` `CVE Research`
 
@@ -138,7 +138,7 @@ Automated framework in Python + Go to benchmark RAG-generated hex-encoded WAV ex
 <td width="50%" valign="top">
 
 ### ⚡ [Automated Incident Response Pipeline](https://github.com/vkr-vavilla/cloud_sec_ops)
-Zero-trust AWS Terraform architecture with 95% reduction in incident response time. Event-driven Python Lambda parses Suricata EVE alerts and achieves 100% quarantine rate against simulated SSH brute-force campaigns.
+Zero-trust AWS architecture that cut incident response time by 95%. Python Lambda ingests Suricata EVE alerts and achieved 100% quarantine rate on simulated SSH brute-force campaigns.
 
 `AWS` `Terraform` `Suricata` `Python` `DynamoDB` `SQS`
 
@@ -148,7 +148,7 @@ Zero-trust AWS Terraform architecture with 95% reduction in incident response ti
 <td width="50%" valign="top">
 
 ### 🖥️ [Custom xv6 Kernel](https://github.com/vkr-vavilla/xv6Plus_Custom-Kernel)
-Thread-safe buffer cache and Shared Memory IPC for the xv6 kernel with fine-grained spinlocks — 30% reduction in disk I/O latency. Kernel hardening via syscall wrappers and strict user-space memory isolation validated under concurrent fault injection.
+Added thread-safe buffer cache and Shared Memory IPC to xv6 with fine-grained spinlocks, cutting disk I/O latency by 30%. Hardened via syscall wrappers and fault injection stress tests.
 
 `C` `x86 Assembly` `OS Internals` `Memory Management`
 
@@ -156,7 +156,7 @@ Thread-safe buffer cache and Shared Memory IPC for the xv6 kernel with fine-grai
 <td width="50%" valign="top">
 
 ### 🎮 [GPU-Accelerated MD5 Cracker](https://github.com/vkr-vavilla/cuda_md5_cracker)
-CUDA brute-force cracker achieving **≈16,800x** speedup over CPU — 4.9M → 82.5B hashes/sec. Optimized with constant memory, coalesced reads, tuned launch bounds, and loop unrolling across 60M+ GPU-parallel candidates.
+CUDA brute-force cracker hitting **82.5B hashes/sec** (~16,800x over CPU). Optimized with constant memory, coalesced reads, and loop unrolling across 60M+ parallel candidates.
 
 `CUDA` `C` `GPU Programming` `Cryptography`
 
@@ -166,7 +166,7 @@ CUDA brute-force cracker achieving **≈16,800x** speedup over CPU — 4.9M → 
 <td width="50%" valign="top">
 
 ### 📡 [SDR Wireless Exploitation Framework](https://github.com/vkr-vavilla/Wireless_Comm)
-RF spoofing framework on ARM Cortex-M4 executing QPSK baseband replay attacks against IoT authentication, 100% unauthorized payload injection rate. MATLAB SDR pipeline with FFT-based carrier recovery reduced decryption time 85%.
+RF spoofing framework on ARM Cortex-M4 that bypassed IoT authentication with 100% payload injection rate. MATLAB SDR pipeline with FFT-based carrier recovery cut decryption time by 85%.
 
 `Embedded C` `MATLAB` `RF Security` `ARM Cortex-M4`
 
@@ -174,7 +174,7 @@ RF spoofing framework on ARM Cortex-M4 executing QPSK baseband replay attacks ag
 <td width="50%" valign="top">
 
 ### 🌐 [AI Interview Platform](https://github.com/vkr-vavilla/Senior_Design)
-Real-time AI interview platform with sub-400ms latency and 98% transcription accuracy. Dockerized FastAPI on AWS with Groq Whisper, Orpheus TTS, async WebSockets, RAG-driven scorecards, and GitHub Actions CI.
+Real-time interview platform with sub-400ms latency and 98% transcription accuracy. Groq Whisper, Orpheus TTS, async WebSockets, and RAG-driven scorecards on AWS.
 
 `Next.js` `FastAPI` `AWS` `RAG` `WebSockets` `Docker`
 
@@ -187,12 +187,12 @@ Real-time AI interview platform with sub-400ms latency and 98% transcription acc
 ## 🏅 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_Cloud_Support_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/X2LVZQYBAEPO"><img src="https://img.shields.io/badge/AWS_Cloud_Support_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SOC_Analyst-2E86C1?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk_Certified-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mastercard_IS_Assurance-E80000?style=for-the-badge&logo=mastercard&logoColor=white"/>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/P653TWUGZZQV"><img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1MCzFIviCAJepAlLdgS1JfROhgEEIEzkp/view?usp=sharing"><img src="https://img.shields.io/badge/SOC_Analyst-2E86C1?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1brh1O0nHI32Ak7i2ZP6T_lvRGX_HpKyj/view?usp=sharing"><img src="https://img.shields.io/badge/Splunk_Certified-000000?style=for-the-badge&logo=splunk&logoColor=white"/></a>
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_iQve2okzGHSqhxcPn_1743127200003_completion_certificate.pdf"><img src="https://img.shields.io/badge/Mastercard_IS_Assurance-E80000?style=for-the-badge&logo=mastercard&logoColor=white"/></a>
 </p>
 
 ---
